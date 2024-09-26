@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding:0px;
+    /* border:2px solid black; */
+}
+.nav-item{
+    font-family: "Dancing Script", cursive;
+    
+   
+  }
+  .navbar{
+    margin-bottom:-70px;
+    position: sticky;
+    top: 0px;
+    z-index:1;
+  }
+  h1{
+    font-family: "Lobster", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .r{
+    background-image: url(https://i.pinimg.com/564x/75/c3/05/75c3059af98bb5ca3f1c1f98eb234562.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .col1{
+    background-color: rgb(230, 161, 193);
+    height:150px;
+    width:250px;
+  }
+  .col2{
+    background-color: rgb(229, 230, 161);
+    height:150px;
+    width:250px;
+  }
+  .col3{
+    background-color: rgb(196, 206, 224);
+    height:150px;
+    width:250px;
+  }
+  .col4{
+    background-color: rgb(230, 161, 193);
+    height:150px;
+    width:250px;
+  }
+  .col5{
+    background-color: rgb(235, 223, 205);
+    height:150px;
+    width:250px;
+  }
+  hr {
+    border: 2px solid grey; /* Adjust thickness and color as needed */
+  }
+  footer{
+    background-color: rgb(216, 211, 211);
+  }
+  .carouselExampleCaptions{
+    align-items: center;
+  }
+  .col-2{
+    width:250px;
+    height: 500px;
+  }
+  .img19{
+    background-color: rgb(255, 251, 251);;
+  }
+  .checked {
+    color: orange;
+  }
+  #w2{
+    font-family: "Grey Qo", cursive;
+    font-weight: 800;
+    font:900;
+  }
+ 
